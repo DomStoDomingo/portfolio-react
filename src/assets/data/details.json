@@ -1,7 +1,7 @@
 [
-    { "icon": "pi pi-map-marker", "label": "Philippines" },
-    { "icon": "pi pi-graduation-cap", "label": "Software Developer" },
-    { "icon": "pi pi-check-circle", "label": "Open to Work" },
-    { "icon": "pi pi-language", "label": "English & Tagalog" }
+    { "id": 1, "icon": "pi pi-map-marker", "label": "Philippines" },
+    { "id": 2, "icon": "pi pi-graduation-cap", "label": "Software Developer" },
+    { "id": 3, "icon": "pi pi-check-circle", "label": "Open to Work" },
+    { "id": 4, "icon": "pi pi-language", "label": "English & Tagalog" }
   ]
   
