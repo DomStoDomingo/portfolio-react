@@ -1,8 +1,10 @@
 import React from "react";
 import '../styles/TopMiddleContainer.css';
+import useDetails from "../hooks/useDetails";
 import ChipList from "./ChipList";
 
-const TopMiddleContainer = ({ details }) => {
+const TopMiddleContainer = () => {
+    const personalDetails = useDetails();
     return(
         <div className="flex flex-col tm-container gap-4">
             <div className="glass h-auto p-4 flex flex-col items-start justify-center">
@@ -23,7 +25,7 @@ const TopMiddleContainer = ({ details }) => {
                     </h6>
                 </div>
                 <div className="glass h-2/5 flex items-center">
-                    <ChipList details={details}/>
+                    <ChipList details={personalDetails}/>
                 </div>
             </div>
             
