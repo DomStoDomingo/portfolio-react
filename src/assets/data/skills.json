@@ -1,0 +1,22 @@
+[
+  { "name": "AmazonS3", "image": "/assets/svg/amazons3.svg" },
+  { "name": "Ansible", "image": "/assets/svg/ansible.svg" },
+  { "name": "Bash", "image": "/assets/images/bash.png" },
+  { "name": "Bootstrap", "image": "/assets/svg/bootstrap.svg" },
+  { "name": "CSS", "image": "/assets/svg/css.svg" },
+  { "name": "Flutter", "image": "/assets/svg/flutter.svg" },
+  { "name": "Git", "image": "/assets/svg/git.svg" },
+  { "name": "HTML", "image": "/assets/svg/html.svg" },
+  { "name": "Java", "image": "/assets/svg/java.svg" },
+  { "name": "JavaScript", "image": "/assets/svg/javascript.svg" },
+  { "name": "Jenkins", "image": "/assets/images/jenkins.png" },
+  { "name": "JQuery", "image": "/assets/svg/jquery.svg" },
+  { "name": "Linux", "image": "/assets/svg/linux.svg" },
+  { "name": "MySQL", "image": "/assets/svg/mysql.svg" },
+  { "name": "NodeJS", "image": "/assets/svg/nodejs.svg" },
+  { "name": "OutSystems", "image": "/assets/svg/OutSystems.svg" },
+  { "name": "PHP", "image": "/assets/svg/php.svg" },
+  { "name": "Python", "image": "/assets/svg/python.svg" },
+  { "name": "React", "image": "/assets/svg/react.svg" },
+  { "name": "Splunk", "image": "/assets/images/splunk.png" }
+]

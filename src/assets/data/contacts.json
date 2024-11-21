@@ -1,0 +1,7 @@
+[
+    { "name": "LinkedIn", "image": "/assets/svg/linkedin.svg" },
+    { "name": "Github", "image": "/assets/svg/github.svg" },
+    { "name": "Mail", "image": "/assets/svg/mail.svg" },
+    { "name": "Phone", "image": "/assets/svg/phone.svg" }
+  ]
+  
