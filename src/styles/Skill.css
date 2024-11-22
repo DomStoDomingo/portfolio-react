@@ -1,0 +1,19 @@
+.skill-item{
+    object-fit: contain;
+    pointer-events: none;
+}
+
+.skill-container{
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+    transition: transform 0.5s ease-in-out;
+}
+
+.skill-container:hover {
+    transform: scale(1.1);  
+  }
+  
+[alt="Jenkins logo"]{
+    width: 80%;
+}

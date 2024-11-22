@@ -1,7 +1,4 @@
+
 .p-chip{
-    font-size: .5em;
-}
-  
-.p-chip-icon{
-    margin: 0px;
+    gap: 4px;
 }
