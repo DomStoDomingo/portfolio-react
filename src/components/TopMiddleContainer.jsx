@@ -9,7 +9,7 @@ const TopMiddleContainer = () => {
         <div className="flex flex-col tm-container gap-4">
             <div className="glass h-auto p-4 flex flex-col items-start justify-center">
                 <h2 className="name text-3xl font-bold">
-                    Curious Mind, Creative Solutions
+                    Curious <span className="mind">Mind</span>, Creative <span className="solutions">Solutions</span>
                 </h2>
                 <h6 className="role">
                     Transforming Challenges into Innovative Digital Experience   
