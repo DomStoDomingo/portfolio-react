@@ -22,7 +22,11 @@ const BentoContainer = () => {
             <div className="bento-item  glass middle flex-auto h-auto w-full">
                 <SkillCarousel skills={skillsDetails}/>
             </div>
-            <div className="bento-item right flex-auto h-auto w-full"></div>
+            <div className="bento-item flex flex-auto h-full w-full gap-4">
+                <div className="glass h-2/5 w-full"></div>
+                <div className="glass h-2/5 w-full"></div>
+            </div>
+            <div className="bento-item flex-auto h-auto w-full"></div>
         </div>
     );
 }
