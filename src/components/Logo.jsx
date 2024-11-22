@@ -4,7 +4,7 @@ import "../styles/Logo.css";
 
 const Logo = () => {
     return(
-        <div className="logo-container flex flex-col justify-center items-center p-2 gap-4">
+        <div className="logo-container flex flex-col justify-center items-center p-2">
             <img src={image} alt="logo" className="portfolio-logo"/>
         </div>
         
