@@ -1,3 +1,20 @@
 .tm-container{
     flex: 1 2 100%;
 }
+
+.mind{
+    color: rgb(181, 89, 248);
+}
+.solutions{
+background: linear-gradient(90deg, #FF7E5F, #feb47b, #FF6A00); /* Warm pink to peach to vibrant orange */
+background-size: 200%; /* Allows for a smooth color spread */
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent; /* Transparent text to show gradient */
+animation: solutions 5s ease infinite;
+
+}
+@keyframes solutions {
+0% { background-position: 0%; }
+50% { background-position: 100%; }
+100% { background-position: 0%; }
+}
