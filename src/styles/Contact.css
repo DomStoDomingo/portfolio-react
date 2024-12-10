@@ -2,3 +2,6 @@
     height: 65px;
     width: 65px;
 }
+.glass.contact-item:hover{
+    background: rgba(235, 242, 250, 0.4);
+}
