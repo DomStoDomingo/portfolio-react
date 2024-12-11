@@ -3,3 +3,12 @@
     width: 150px;
     height: 150px;
 }
+
+.cv-img{
+    height: auto;
+    width: 65px;
+}
+
+.cv-container:hover{
+        background: rgba(235, 242, 250, 0.4);
+}

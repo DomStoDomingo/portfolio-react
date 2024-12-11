@@ -24,11 +24,10 @@ const TopMiddleContainer = () => {
                         OUTSYSTEMS DEVELOPER    
                     </h6>
                 </div>
-                <div className="glass h-2/5 flex items-center">
+                <div className="glass h-auto flex items-center">
                     <ChipList details={personalDetails}/>
                 </div>
             </div>
-            
         </div>
     );
 }
