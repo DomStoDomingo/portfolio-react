@@ -3,10 +3,11 @@ import Logo from "./Logo";
 import "../styles/TopLeftContainer.css";
 
 const TopLeftContainer = () =>{
+    const origin = window.location.origin;
     return(
-        <div className="glass flex tl-container flex-auto p-4">
+        <a href={origin} className="glass flex tl-container flex-auto p-4">
             <Logo />
-        </div>
+        </a>
     );
 }
 
