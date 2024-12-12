@@ -25,10 +25,10 @@ const BentoContainer = () => {
         <SkillCarousel skills={skillsDetails} />
       </div>
       <div className="bento-item flex w-full gap-4">
-        <div className="glass w-1/2">
+        <div className="glass w-1/2 p-2 experiences-container">
           <Experiences experiences={experiencesDetails} />
         </div>
-        <div className="glass w-1/2 h-96"></div>
+        <div className="glass w-1/2"></div>
       </div>
       <div className="bento-item flex-auto h-auto w-full"></div>
     </div>
