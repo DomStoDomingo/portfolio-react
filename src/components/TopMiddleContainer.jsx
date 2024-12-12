@@ -6,7 +6,7 @@ import ChipList from "./ChipList";
 const TopMiddleContainer = () => {
     const personalDetails = getDetails();
     return(
-        <div className="flex flex-col tm-container gap-4">
+        <div className="cursor-default flex flex-col tm-container gap-4">
             <div className="glass h-auto p-4 flex flex-col items-start justify-center">
                 <h2 className="name text-3xl font-bold">
                     Curious <span className="mind">Mind</span>, Creative <span className="solutions">Solutions</span>

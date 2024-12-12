@@ -5,7 +5,7 @@ const useContacts = () => {
   const [contacts, setContacts] = useState([]);
 
   useEffect(() => {
-    setContacts(contactsData); // Directly set the state with imported data
+    setContacts(contactsData);
   }, []);
 
   return contacts;
