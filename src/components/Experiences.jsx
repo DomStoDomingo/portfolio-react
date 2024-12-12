@@ -3,18 +3,13 @@ import Experience from "./Experience";
 import "../styles/Experiences.css";
 
 const Experiences = ({ experiences }) => {
-  return (
-    <div
-      className="experiences-container flex flex-col gap-2 p-2 w-full 
-                 overflow-y-auto snap-y snap-mandatory scroll-smooth h-96"
-    >
+  return(
+    <div className="flex flex-col gap-2">
       {experiences.map((experience) => (
-        <div key={experience.id} className="snap-start">
-          <Experience experience={experience} />
-        </div>
+          <Experience key={experience.id} experience={experience}/>
       ))}
     </div>
   );
-};
+}
 
 export default Experiences;

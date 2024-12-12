@@ -1,7 +1,39 @@
 [
-    { "id": 1, "name": "Collabera Digital", "image":"/assets/images/companies/cd-logo.jpg", "link":"https://www.via-appia.ph/"},
-    { "id": 2, "name": "Via-Appia PH", "image":"/assets/images/companies/va-logo.jpg", "link": "https://www.collaberadigital.com/"},
-    { "id": 3, "name": "Direct Sourcing Solutions", "image":"/assets/images/companies/dss-logo.jpg", "link":"https://www.dss.asia/"},
-    { "id": 4, "name": "Accenture", "image":"/assets/images/companies/acn-logo.jpg", "link":"https://www.accenture.com/ph-en"}
+    { 
+      "id": 1,
+      "name": "Collabera Digital", 
+      "role": "Outsystems Developer", 
+      "time" : " July 2024 - Present",
+      "image":"/assets/images/companies/cd-logo.jpg", 
+      "link":"https://www.collaberadigital.com/", 
+      "description": "Designs and develops responsive web and mobile applications while ensuring the app follows best practices and standards. Conducts code reviews, resolves issues, and optimizes performance to enhance application functionality. Collaborates effectively in an agile team environment, performs requirement analysis, and provides knowledge transfer (KT) to new developers. Specializes in creating customized scripts, managing security and user access, and designing relational databases to support application requirements"
+    },
+    { 
+      "id": 2, 
+      "name": "Via-Appia PH", 
+      "role": "Outsystems Developer",  
+      "time" : "May 2021 - October 2024",
+      "image":"/assets/images/companies/va-logo.jpg", 
+      "link": "https://www.via-appia.ph/", 
+      "description": "Collaborates with stakeholders and clients to transform requirements into business software solutions and recommends technology upgrades to improve client systems. Analyzes business requirements and processes to propose optimal digital solutions. Designs and develops responsive web and mobile applications using OutSystems OS10 and OS11, ensuring adherence to best practices and standards in an agile team environment. Conducts code reviews, resolves errors, and optimizes application performance. Develops specialized scripts, manages security and user access, and designs relational databases to support business applications. Provides training and onboarding for new OutSystems developers to enhance team capabilities."
+    },
+    { 
+      "id": 3, 
+      "name": "Direct Sourcing Solutions", 
+      "role": "Jr Software Engineer",  
+      "time" : "May 2021 - October 2021",
+      "image":"/assets/images/companies/dss-logo.jpg", 
+      "link":"https://www.dss.asia/", 
+      "description": "Trains and familiarizes with OutSystems to ensure proficiency in development. Creates new features based on client requests and conducts code reviews to resolve errors and improve application performance. Designs and develops relational databases to meet client requirements."
+    },
+    { 
+      "id": 4, 
+      "name": "Accenture", 
+      "role": "Assoc. Software Engineer",  
+      "time" : "December 2019 - April 2021",
+      "image":"/assets/images/companies/acn-logo.jpg", 
+      "link":"https://www.accenture.com/ph-en", 
+      "description": "Gained diverse technical background with JAVA, Splunk, DevOps, and Automation. Gained experience in JAVA by modernizing legacy systems to microservices, and ensuring code quality with JUnit and to use Spring Boot. Specialized in data analysis, dashboard design, and optimizing system performance using Splunk. Gained additional experience in implementing CI/CD pipelines, scripting with Linux, Python and Shell, and configuring tools like Jenkins and Ansible to enhance deployment and monitoring processes."
+    }
   ]
   
